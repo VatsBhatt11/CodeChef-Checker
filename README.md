@@ -1,4 +1,4 @@
-# CodeChef Submitter
+# CodeChef Checker
 Tired of waiting on codechef to see whether your submission is correct then this is the solution for you.<br><br>
 This extension observes your activity and automatically follows your submission when you do it. It then notifies you when the
 result has arrived.<br><br>
